@@ -6,7 +6,7 @@ Here I used <b>Html, Css & javascript</b> To create the front end part of the we
 
 The HomePage of the Website is with<b> main.html</b> file.
 
-![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/home.PNG?raw=true)
+![alt text](https://github.com/sharmayash9690/Tour-Project-main/blob/59903f7d30631c7aee4e75b233dc0346ccfe4cb0/Tour-Project-main/screenshot/home.PNG)
 
 <h1><b>Other Screenshots of the Pages are.</b></h1>
 
