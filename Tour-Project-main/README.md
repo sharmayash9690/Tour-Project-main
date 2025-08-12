@@ -1,25 +1,17 @@
-# Travel-Explorer  
-<b>🚀 Calling All Open Source Enthusiasts: Help Us Make This Project Even Better! Try Contributing!</b> <br>  
-[Feature Request: Add a Contributors Section on the Home Page](https://github.com/sharmayash9690/Travel-Explorer/issues/1) <br>  
-[Improvement: Create Separate Pages for Top Travel Packages](https://github.com/sharmayash9690/Travel-Explorer/issues/2) <br><br>  
-DEMO → https://sharmayash9690.github.io/Travel-Explorer/  
-Tour &amp; Travel Project (Using Html, Css, Php, JavaScript).
+# Tour-Project
+<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> 
 
-Here I used <b>HTML, CSS & JavaScript</b> to create the frontend of the website and, for storing contact information in the database, I used <b>PHP</b> as the backend language.
+Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
-The homepage of the website is the <b>main.html</b> file.
+Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
 
-![alt text](https://github.com/sharmayash9690/Travel-Explorer/blob/main/screenshots/home.png?raw=true)
+The HomePage of the Website is with<b> main.html</b> file.
 
-<h1><b>Other Screenshots of the Pages are:</b></h1>
+![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/home.PNG?raw=true)
 
-![alt text](https://github.com/sharmayash9690/Travel-Explorer/blob/main/screenshots/adventure.png?raw=true)  
-![alt text](https://github.com/sharmayash9690/Travel-Explorer/blob/main/screenshots/package1.png?raw=true)  
-![alt text](https://github.com/sharmayash9690/Travel-Explorer/blob/main/screenshots/contact.png?raw=true)  
-![alt text](https://github.com/sharmayash9690/Travel-Explorer/blob/main/screenshots/database_contact.png?raw=true)  
+<h1><b>Other Screenshots of the Pages are.</b></h1>
 
----
-
-<b>👨‍💻 Author:</b>  
-Yash Sharma  
-- GitHub: [@sharmayash9690](https://github.com/sharmayash9690)  
+![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true)
+![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/package1.PNG?raw=true)
+![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/contact.PNG?raw=true)
+![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/database_contact.PNG?raw=true)
