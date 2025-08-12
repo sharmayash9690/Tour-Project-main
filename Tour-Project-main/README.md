@@ -12,6 +12,5 @@ The HomePage of the Website is with<b> main.html</b> file.
 <h1><b>Other Screenshots of the Pages are.</b></h1>
 
 ![alt text](https://github.com/sharmayash9690/Tour-Project-main/blob/cdb2d9281aca9c7da8304478c053895f7b4360e7/Tour-Project-main/screenshot/adventure.PNG)
-![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/package1.PNG?raw=true)
-![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/contact.PNG?raw=true)
-![alt text](https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/database_contact.PNG?raw=true)
+![alt text]([https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/package1.PNG?raw=true](https://github.com/sharmayash9690/Tour-Project-main/blob/ec6aa4a6cd58b141b3563e3a69910530b33cb230/Tour-Project-main/screenshot/package2.PNG))
+![alt text]([https://github.com/sharmayash9690/Tour-Project/blob/main/screenshot/contact.PNG?raw=true](https://github.com/sharmayash9690/Tour-Project-main/blob/ec6aa4a6cd58b141b3563e3a69910530b33cb230/Tour-Project-main/screenshot/contact.PNG))
