@@ -1,5 +1,4 @@
 # Tour-Project
-<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> 
 
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
